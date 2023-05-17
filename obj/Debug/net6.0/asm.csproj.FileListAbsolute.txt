@@ -1,0 +1,15 @@
+d:\poly\C#1_Net101\asm\bin\Debug\net6.0\asm.exe
+d:\poly\C#1_Net101\asm\bin\Debug\net6.0\asm.deps.json
+d:\poly\C#1_Net101\asm\bin\Debug\net6.0\asm.runtimeconfig.json
+d:\poly\C#1_Net101\asm\bin\Debug\net6.0\asm.dll
+d:\poly\C#1_Net101\asm\bin\Debug\net6.0\asm.pdb
+d:\poly\C#1_Net101\asm\obj\Debug\net6.0\asm.csproj.AssemblyReference.cache
+d:\poly\C#1_Net101\asm\obj\Debug\net6.0\asm.GeneratedMSBuildEditorConfig.editorconfig
+d:\poly\C#1_Net101\asm\obj\Debug\net6.0\asm.AssemblyInfoInputs.cache
+d:\poly\C#1_Net101\asm\obj\Debug\net6.0\asm.AssemblyInfo.cs
+d:\poly\C#1_Net101\asm\obj\Debug\net6.0\asm.csproj.CoreCompileInputs.cache
+d:\poly\C#1_Net101\asm\obj\Debug\net6.0\asm.dll
+d:\poly\C#1_Net101\asm\obj\Debug\net6.0\refint\asm.dll
+d:\poly\C#1_Net101\asm\obj\Debug\net6.0\asm.pdb
+d:\poly\C#1_Net101\asm\obj\Debug\net6.0\asm.genruntimeconfig.cache
+d:\poly\C#1_Net101\asm\obj\Debug\net6.0\ref\asm.dll
